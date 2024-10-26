@@ -1,5 +1,5 @@
 # msprimeprime
-A nanoGPT implementation for generating more TMRCA data simulated with msprime.
+A GPT2 implementation for generating more TMRCA data simulated with msprime.
 
 ![msprimeprime next coalescence prediction](./msprimeprime.png)
 
